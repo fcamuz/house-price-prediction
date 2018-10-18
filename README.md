@@ -22,7 +22,9 @@ All that remains for Module 1 is to put our newfound data science skills to use 
 
 ### The Dataset
 
-For this project, you'll be working with the [King County House Sales Dataset from Kaggle](https://www.kaggle.com/swathiachath/kc-housesales-data).   You'll clean, explore, and model this dataset with a multivariate linear regression to predict the Sales price of house as accurately as possible. 
+For this project, you'll be working with the King County Housesales dataset from Kaggle. We've modified the dataset to make it a bit more fun and challenging.  The dataset can be found in the file `"kc_house_data.csv"`, in this repo. 
+
+You'll clean, explore, and model this dataset with a multivariate linear regression to predict the Sales price of house as accurately as possible. 
 
 ### The Deliverables
 
