@@ -51,7 +51,13 @@ Once you're done with the first 12 sections, please start on the project. Do tha
 Project reviews are focused on preparing you for technical interviews. Treat project reviews as if they were technical interviews, in both attitude and technical presentation *(sometimes technical interviews will feel arbitrary or unfair - if you want to get the job, commentiing on that is seldom a good choice)*.
 
 The project review is comprised of a 45 minute 1:1 session with one of the instructors. During your project review, be prepared to:
-#### 1. Go through the Jupyter Notebook, answering questions about how you made certain decisions. Be ready to explain things like:
+
+#### 1. Deliver your PDF presentation to a non-technical stakeholder. 
+In this phase of the review (~10 mins) your instructor will play the part of a non-technical stakeholder that you are presenting your findings to. The presentation should not exceed 5 minutes, giving the "stakeholder" 5 minutes to ask questions.
+
+In the first half of the presentation (2-3 mins), you should summarize your methodology in a way that will be comprehensible to someone with no background in data science and that will increase their confidence in you and your findings. In the second half (the remaining 2-3 mins) you should summarize your findings and be ready to answer a couple of non-technical questions from the audience. The questions might relate to technical topics (sampling bias, confidence, etc) but will be asked in a non-technical way and need to be answered in a way that does not assume a background in statistics or machine learning. You can assume a smart, business stakeholder, with a non-quantitative college degree.
+
+#### 2. Go through the Jupyter Notebook, answering questions about how you made certain decisions. Be ready to explain things like:
     * "how did you pick the question(s) that you did?"
     * "why are these questions important from a business perspective?"
     * "how did you decide on the data cleaning options you performed?"
@@ -63,11 +69,6 @@ The project review is comprised of a 45 minute 1:1 session with one of the instr
     * "what are some of the things that could cause the results to be wrong?"
 
 Think of the first phase of the review (~30 mins) as a technical boss reviewing your work and asking questions about it before green-lighting you to present to the business team. You should practice using the appropriate technical vocabulary to explain yourself. Don't be surprised if the instructor jumps around or sometimes cuts you off - there is a lot of ground to cover, so that may happen.
-
-#### 2. Deliver your PDF presentation to a non-technical stakeholder. 
-In this phase of the review (~10 mins) your instructor will play the part of a non-technical stakeholder that you are presenting your findings to. The presentation should not exceed 5 minutes, giving the "stakeholder" 5 minutes to ask questions.
-
-In the first half of the presentation (2-3 mins), you should summarize your methodology in a way that will be comprehensible to someone with no background in data science and that will increase their confidence in you and your findings. In the second half (the remaining 2-3 mins) you should summarize your findings and be ready to answer a couple of non-technical questions from the audience. The questions might relate to technical topics (sampling bias, confidence, etc) but will be asked in a non-technical way and need to be answered in a way that does not assume a background in statistics or machine learning. You can assume a smart, business stakeholder, with a non-quantitative college degree.
 
 If any requirements are missing or if significant gaps in understanding are uncovered, be prepared to do one or all of the following:
 * Perform additional data cleanup, visualization, feature selection, modeling and/or model validation
@@ -86,7 +87,7 @@ What won't happen:
 
 This section outlines the rubric we'll use to evaluate your project.
 
-### Technical Report Must-Haves
+### 1. Technical Report Must-Haves
 
 For this project, your Jupyter Notebook should meet the following specifications:
 
@@ -112,7 +113,7 @@ For this project, your Jupyter Notebook should meet the following specifications
 * You pick at least 3 coefficients from your final model and explain their impact on the price of a house in this dataset.   
 
 
-### Non-Technical Presentation Must-Haves
+### 2. Non-Technical Presentation Must-Haves
 
 The second deliverable should be a Keynote, PowerPoint or Google Slides presentation delivered as a pdf file in your fork of this repository with the file name of `presentation.pdf` detailing the results of your project.  Your target audience is non-technical people interested in using your findings to maximize their profit when selling their home. 
 
@@ -124,6 +125,11 @@ Your presentation should:
 * Avoid technical jargon and explain the results in a clear, actionable way for non-technical audiences.   
 
 **_Your presentation should contain at least 2 concrete recommendations for how to improve the selling price of a home._**
+
+### 3. Blog Post
+
+Please also write a blog post about one element of the project - it could be the EDA, the feature selection, the choice of visualizations or anything else technical relating to the project. It should be between 800-1500 words and should be targeted at your peers - aspiring data scientists.
+
 
 ## Summary
 
