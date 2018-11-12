@@ -29,10 +29,11 @@ You'll clean, explore, and model this dataset with a multivariate linear regress
 
 ## The Deliverables
 
-There will be two deliverables for this project:
+There will be three deliverables for this project:
 
 1. **A well documented Jupyter Notebook** containing any code you've written for this project and comments explaining it.  
 2. A short **Keynote/PowerPoint/Google Slides presentation** (delivered as a PDF export) giving a high-level overview of your methodology and recommendations for non-technical stakeholders.
+3. **A blog post** (800-1500 words) about one element of the project - it could be the EDA, the feature selection, the choice of visualizations or anything else technical relating to the project. It should be targeted at your peers - aspiring data scientists.
 
 ## The Process
 
