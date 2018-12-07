@@ -18,5 +18,5 @@
 * **zipcode** - zip
 * **lat** - Latitude coordinate
 * **long** - Longitude coordinate
-* **sqft_living15** - Living room area in 2015(implies-- some renovations) This might or might not have affected the lotsize area
-* **sqft_lot15** - lotSize area in 2015(implies-- some renovations)
+* **sqft_living15** - The square footage of interior housing living space for the nearest 15 neighbors
+* **sqft_lot15** - The square footage of the land lots of the nearest 15 neighbors
