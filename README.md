@@ -53,7 +53,13 @@ Once you're done with the first 12 sections, please start on the project. Do tha
 
 Project reviews are focused on preparing you for technical interviews. Treat project reviews as if they were technical interviews, in both attitude and technical presentation *(sometimes technical interviews will feel arbitrary or unfair - if you want to get the job, commentiing on that is seldom a good choice)*.
 
-The project review is comprised of a 45 minute 1:1 session with one of the instructors. During your project review, be prepared to:
+The project review is comprised of a 45 minute 1:1 session with one of the instructors.
+
+**Presentation Flow**
+- **Non Technical Presentation (15 minutes)**
+- **Technical Notebook Presentation (30 minutes)**
+
+During your project review, be prepared to:
 
 #### 1. Deliver your PDF presentation to a non-technical stakeholder. 
 In this phase of the review (~10 mins) your instructor will play the part of a non-technical stakeholder that you are presenting your findings to. The presentation should not exceed 5 minutes, giving the "stakeholder" 5 minutes to ask questions.
@@ -127,7 +133,7 @@ Your presentation should:
 * Take no more than 5 minutes to present.   
 * Avoid technical jargon and explain the results in a clear, actionable way for non-technical audiences.   
 
-**_Your presentation should contain at least 2 concrete recommendations for how to improve the selling price of a home._**
+**_Based on the results of your models, your presentation should discuss at least two concrete features that highly influence housing prices._**
 
 ### 3. Blog Post
 
