@@ -17,7 +17,7 @@ You will be able to:
 
 You've made it all the way through the first module of this course - take a minute to celebrate your awesomeness! 
 
-![awesome](awesome.gif)
+![awesome](https://github.com/learn-co-curriculum/dsc-1-final-project/blob/master/awesome.gif)
 
 All that remains in Module 1 is to put our newfound data science skills to use with a final project! You should expect this project to take between 40 and 50 hours of solid, focused effort. If you're done way quicker, go back and dig in deeper or try some of the optional "level up" suggestions. If you're worried that you're going to get to 30 hrs and still not even have the data imported, reach out to an instructor in slack ASAP to get some help!
 
